@@ -2,8 +2,6 @@
 
 This repository serves as my way to help me setup and maintain my Mac. It takes the effort out of installing everything manually. Everything needed to install my preferred setup of macOS is detailed in this readme.
 
-This repo has been Mirrored from https://github.com/driesvints/dotfiles.
-
 ## A Fresh macOS Setup
 
 These instructions are for when you've already set up your dotfiles.
@@ -38,5 +36,5 @@ If you did all of the above you may now follow these install instructions to set
 
 Your Mac is now ready to use!
 
-> Note: you can use a different location than `~/.dotfiles` if you want. Just make sure you also update the reference in the [`.zshrc`](./.zshrc) file.
+> Note: you can use a different location than `~/.dotfiles` if you want. Just make sure you also update the reference in the [`.zshrc`](./.zshrc) and [`.gitconfig`](./.gitconfig) file.
 >
