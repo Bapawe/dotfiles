@@ -51,3 +51,4 @@ cask 'font-source-serif-pro'
 mas 'The Unarchiver', id: 425424353
 mas 'WhatsApp', id: 1147396723
 mas 'Microsoft Remote Desktop 10', id: 1295203466
+mas 'Twitterrific', id: 1289378661
