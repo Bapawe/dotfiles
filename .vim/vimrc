@@ -49,4 +49,4 @@ set sidescroll=1
 " Color theme
 syntax enable
 set background=dark
-colorscheme darcula 
+colorscheme solarized
