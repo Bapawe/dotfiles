@@ -11,6 +11,7 @@ brew 'grep'
 brew 'wget'
 brew 'mackup'
 brew 'mas' # Mac App Store manager
+brew 'zsh-syntax-highlighting'
 
 # Development
 brew 'php'
@@ -29,6 +30,7 @@ cask 'java'
 cask 'phpstorm'
 cask 'vlc'
 cask 'sequel-pro'
+cask 'iterm2'
 
 # Quicklook
 cask 'qlcolorcode'
