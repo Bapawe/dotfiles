@@ -29,7 +29,7 @@ cask 'google-chrome'
 cask 'java'
 cask 'phpstorm'
 cask 'vlc'
-cask 'sequel-pro'
+cask 'tableplus'
 cask 'iterm2'
 
 # Quicklook
