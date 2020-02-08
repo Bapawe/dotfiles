@@ -2,6 +2,7 @@
 alias copyssh="pbcopy < $HOME/.ssh/id_ed25519.pub"
 alias reloadcli="source $HOME/.zshrc"
 alias reloaddns="dscacheutil -flushcache && sudo killall -HUP mDNSResponder"
+alias ll="/usr/local/opt/coreutils/libexec/gnubin/ls -ahlF --color --group-directories-first"
 alias phpstorm='open -a /Applications/PhpStorm.app "`pwd`"'
 
 # Directories
@@ -13,6 +14,8 @@ alias art="php artisan"
 alias ams="php artisan migrate:fresh --seed"
 
 # PHP
+alias php73="/usr/local/Cellar/php@7.3/7.3.13/bin/php"
+alias php72="/usr/local/Cellar/php@7.2/7.2.26/bin/php"
 alias cfresh="rm -rf vendor/ composer.lock && composer i"
 
 # JS

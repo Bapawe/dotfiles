@@ -15,6 +15,8 @@ brew 'zsh-syntax-highlighting'
 
 # Development
 brew 'php'
+brew 'php@7.3'
+brew 'php@7.2'
 brew 'composer'
 brew 'mysql'
 brew 'nginx'
@@ -26,6 +28,7 @@ brew 'yarn'
 cask 'discord'
 cask 'spotify'
 cask 'google-chrome'
+cask 'insomnia'
 cask 'java'
 cask 'phpstorm'
 cask 'vlc'
@@ -53,4 +56,4 @@ cask 'font-source-serif-pro'
 mas 'The Unarchiver', id: 425424353
 mas 'WhatsApp', id: 1147396723
 mas 'Microsoft Remote Desktop 10', id: 1295203466
-mas 'Twitterrific', id: 1289378661
+mas 'Tweetbot', id: 1384080005
